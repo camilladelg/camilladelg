@@ -1,6 +1,6 @@
 ### Olá, eu sou a Camilla Del Guerso 👋
 
-- 📚 Estou estudando desenvolvimento web na Trybe e amo aprender
+- 📚 Sou estudante de desenvolvimento web na Trybe e amo aprender
 - 🎬 Gosto de ver filmes e séries
 - 🏖️ Amo programas ao ar livre principalmente praia
 - 😄 Pronouns: ela/dela
